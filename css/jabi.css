@@ -9,7 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url(/assets/img/desk.jpg);
+    background-image: url(/front/assets/img/desk.jpg);
     background-position: center;
     background-size: cover;
     /* background: linear-gradient(45deg, #1b5e20, #4caf50, #8bc34a, #cddc39); */
